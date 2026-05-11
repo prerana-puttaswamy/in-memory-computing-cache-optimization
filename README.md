@@ -20,8 +20,5 @@ This project explores advanced cache optimization strategies for improving perfo
 - Identified trade-offs between energy efficiency and performance
 - Provided insights into scalable system design
 
-## Paper
-[Download Paper](./COA_Research_Paper.pdf)
-
 ## Author
 Prerana Puttaswamy
